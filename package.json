@@ -14,7 +14,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://brendanamuh.github.io/Hand2Text/",
+  "homepage": "https://brendanamuh.github.io/Hand2Text",
   "dependencies": {
     "@geist-ui/core": "^2.3.8",
     "@tailwindcss/vite": "^4.0.7",
