@@ -118,8 +118,8 @@ function App() {
                   value={text}
                   autoFocus
                 ></textarea>
-                <div className='pt-[9px]'>
-               <img className='h-[330px] w-full ' src='/asl_alphabet.jpg'></img>
+                <div className='bottom-4 border-2'>
+               <img className='h-[365px] w-full ' src='images/asl_alphabet.jpg'></img>
                </div>
               
               </div>
